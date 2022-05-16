@@ -4,8 +4,8 @@
     padding: 0;
 }
 body{
-    background-image: url(/imagenes/Shiny\ Overlay.svg);
-    background-size: cover;
+    background-image: url(/imagenes/21omxpw-768x480.jpg);
+    background-size:contain;
     font-family: 'Source Sans Pro', sans-serif;
 }
 h1{
