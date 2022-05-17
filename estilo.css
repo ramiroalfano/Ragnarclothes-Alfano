@@ -4,7 +4,7 @@
     padding: 0;
 }
 body{
-    background-image: url(/imagenes/21omxpw-768x480.jpg);
+    background-image: url(imagenes/21omxpw-768x480.jpg);
     background-size:contain;
     font-family: 'Source Sans Pro', sans-serif;
 }
@@ -42,7 +42,7 @@ box-shadow: -9px 9px 26px -6px rgba(0,0,0,0.75);
 /*fin navbar*/
 /*inicio banner*/
 .banner{
-    background-image: url(/imagenes/fotopaginaweb.jpg);
+    background-image: url(imagenes/fotopaginaweb.jpg);
     background-size: cover;
     height: 400px;
     width: 100%;
