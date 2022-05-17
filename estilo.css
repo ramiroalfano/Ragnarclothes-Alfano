@@ -146,7 +146,7 @@ margin: 5rem;
 
 /*Footer*/
 footer{
-    background-image: url(/imagenes/blurry-gradient-haikei.svg);
+    background-image: url(imagenes/blurry-gradient-haikei.svg);
     background-size: cover;
     width: 100%;
     display: grid;
